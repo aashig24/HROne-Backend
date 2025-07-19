@@ -1,5 +1,11 @@
 # HROne Backend Task – E-commerce API (FastAPI + MongoDB)
 
+✅ Built using FastAPI and MongoDB Atlas  
+✅ Fully REST-compliant product & order APIs  
+✅ Hosted on Render: https://hrone-backend1.onrender.com  
+✅ API Docs: https://hrone-backend1.onrender.com/docs
+
+
 This is a simple backend application that simulates an e-commerce API, built using FastAPI and MongoDB.
 
 ## 🛠 Tech Stack
