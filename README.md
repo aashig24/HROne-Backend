@@ -28,8 +28,9 @@ This is a simple backend application that simulates an e-commerce API, built usi
 
 
 ## 👤 Author
-# Aashi Gupta
-GitHub: @aashig24
+
+**Aashi Gupta**  
+GitHub: [@aashig24](https://github.com/aashig24)
 
 > ℹ️ Note: Some earlier commits may show as contributed by my old GitHub account `meowmeow-14`. That account also belongs to me.
 
