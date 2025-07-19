@@ -6,14 +6,18 @@
 ✅ API Docs: https://hrone-backend1.onrender.com/docs
 
 
+## 📚 Overview
+
 This is a simple backend application that simulates an e-commerce API, built using FastAPI and MongoDB.
 
 ## 🛠 Tech Stack
 
-- Python 3.10+
-- FastAPI
-- MongoDB Atlas (via PyMongo)
-- Uvicorn (for local dev)
+- **Language**: Python 3.10+
+- **Web Framework**: FastAPI
+- **Database**: MongoDB (hosted on MongoDB Atlas)
+- **ODM/Client**: PyMongo
+- **Server**: Uvicorn (for development)
+- **Deployment**: Render (free plan)
 
 ## 📦 Features
 
@@ -23,8 +27,11 @@ This is a simple backend application that simulates an e-commerce API, built usi
 - `GET /orders/{user_id}` → View orders of a specific user
 
 
+## 👤 Author
+Aashi Gupta
+GitHub: @aashig24
 
-
+> ℹ️ Note: Some earlier commits may show as contributed by my old GitHub account `meowmeow-14`. That account also belongs to me.
 
 
 
