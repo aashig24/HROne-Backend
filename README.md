@@ -22,12 +22,7 @@ This is a simple backend application that simulates an e-commerce API, built usi
 - `POST /orders` → Place an order
 - `GET /orders/{user_id}` → View orders of a specific user
 
-## 📁 Project Structure
 
-├──main.py # FastAPI app and endpoints
-├── models.py # Request/Response models
-├── db.py # MongoDB connection setup
-└── .env # MongoDB URI and DB name
 
 
 
